@@ -1,3 +1,3 @@
-# Basic-Sweet-Shop-Web-Site
+# Basic-Web Site
 This is my first web site 
-[Main.html](https://github.com/user-attachments/files/25467166/Main.html)
+Just A Sample Web Site 
